@@ -1,0 +1,12 @@
+svg:hover .key{
+    transform: rotate(-48.5deg) translate(-0.5px, -1.5px);
+}
+svg:hover .hex{
+    transform: rotate(90deg)
+}
+svg:hover .gear{
+    transform: rotate(153deg) translate(-1px, -1.5px);
+}
+
+/*matrix(0.99, -0.17, 0.1, 1, 0, 0);*/
+/*matrix(0.79, 0.61, -0.67, 0.74, 0, 0);*/

@@ -1,0 +1,11 @@
+svg:hover .greenLense{
+    transform: rotate(92deg);
+}
+
+svg:hover .secondColb{
+    transform: rotate(24.26deg);
+}
+
+svg:hover .firstColb{
+    transform: rotate(-26.47deg);
+}

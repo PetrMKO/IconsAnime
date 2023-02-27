@@ -1,0 +1,11 @@
+svg:hover .pallet{
+    transform: rotate(27.69deg);
+}
+
+svg:hover .joystick {
+    transform: rotate(-17.74deg);
+}
+
+svg:hover .feather {
+    transform: rotate(91.28deg);
+}

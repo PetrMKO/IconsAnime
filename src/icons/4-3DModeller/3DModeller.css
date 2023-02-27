@@ -1,0 +1,11 @@
+svg:hover .top {
+    transform: translateY(-7px);
+}
+
+svg:hover .prism {
+    transform: rotate(-26.14deg);
+}
+
+svg:hover .something {
+    transform: rotate(-126.88deg);
+}

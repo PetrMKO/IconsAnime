@@ -1,0 +1,13 @@
+svg:hover .speaker{
+    transform: rotate(16deg);
+}
+
+svg:hover .like{
+    transform: translate(-5px, -4px);
+}
+svg:hover .heart{
+    transform: translate(5px, -5px);
+}
+svg:hover .star{
+    transform: translate(-1px, -6px);
+}

@@ -1,0 +1,16 @@
+svg:hover .panel {
+    transform: rotate(-55.05deg);
+}
+
+svg:hover .firstRay{
+    transform: matrix(1,0,0,1.76,0,-4.56);
+}
+
+svg:hover .secondRay{
+    transform: rotate(-45deg) scaleY(1.885);
+}
+
+svg:hover .lastRay{
+    transform: matrix(1.75,0,0,1,-4.5,0);
+}
+

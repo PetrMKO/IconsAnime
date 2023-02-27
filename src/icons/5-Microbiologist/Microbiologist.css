@@ -1,0 +1,7 @@
+svg:hover .microb{
+    transform: scale(1.078);
+}
+
+svg:hover .lense{
+    transform: rotate(10.58deg);
+}

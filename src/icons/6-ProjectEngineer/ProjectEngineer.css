@@ -1,0 +1,6 @@
+svg:hover .protractor{
+    transform: translateY(-28.5px);
+}
+svg:hover .compass{
+    transform: rotate(19.25deg);
+}

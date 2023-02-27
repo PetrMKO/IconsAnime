@@ -1,0 +1,9 @@
+
+svg:hover .coin {
+    transform: translateX(-35.7171px) rotate(169.08deg);
+}
+
+svg:hover .pie{
+    transform: translate(-5px, -4px);
+}
+

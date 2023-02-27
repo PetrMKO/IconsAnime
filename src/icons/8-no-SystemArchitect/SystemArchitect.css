@@ -1,0 +1,22 @@
+svg:hover .twinkle{
+    transform: scale(0);
+}
+
+svg:hover .loader{
+    transform: rotate(150deg);
+}
+
+svg:hover .firstBlock{
+    transform: matrix(0.5, 0, 0, 1, -4.125, 0);
+}
+
+svg:hover .secondBlock{
+    transform: matrix(0.001, 0, 0, 1, 8.25, 0);
+}
+
+svg:hover .lastBlock{
+    transform: matrix(2.538, 0, 0, 1, 5, 0);
+}
+
+
+

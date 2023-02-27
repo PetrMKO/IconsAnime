@@ -1,0 +1,16 @@
+svg:hover .house{
+    transform: translateY(-9px);
+}
+
+svg:hover .check{
+    transform: rotate(26.42deg);
+}
+
+svg:hover .hook{
+    transform: translateY(11px);
+}
+
+svg:hover .rope{
+    transform: matrix(1, 0, 0, 1.2391, 0, 5.5);
+}
+

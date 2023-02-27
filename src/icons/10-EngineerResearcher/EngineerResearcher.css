@@ -1,0 +1,16 @@
+svg:hover .orangeLense{
+    transform: rotate(14.49deg);
+}
+
+svg:hover .Molecule{
+    transform: rotate(-63.38deg) translateX(-2.5px);
+}
+
+svg:hover .bigGear{
+    transform: rotate(-133.98deg);
+
+}
+
+svg:hover .smallGear{
+    transform: rotate(133.98deg);
+}
