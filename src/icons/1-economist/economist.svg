@@ -1,5 +1,5 @@
 <svg width="113" height="148" viewBox="0 0 113 148" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <g class="svgAnime translateX(-35.7171px)+rotate(169.08deg">
+    <g class="svgAnime translateX(-35.7171px)+rotate(169.08deg)">
         <circle cx="84" cy="118" r="24.55" fill="#F0C64C" stroke="#1F1F22" stroke-width="0.9"/>
         <circle cx="84.5" cy="117.5" r="19.05" fill="#F7E1A0" stroke="#1F1F22" stroke-width="0.9"/>
         <path d="M90 129L86.375 124.25M75.5 110C78.1667 107.5 84.5 103.5 88.5 107.5C92.5 111.5 86.3333 117.167 82.75 119.5M75.5 110L82.75 119.5M75.5 110L74 111.5M82.75 119.5L86.375 124.25M82.75 119.5L81 121M86.375 124.25L85 125.5M86.375 124.25L92 119.5"
@@ -22,7 +22,7 @@
     <mask id="path-9-inside-2_555_37488" fill="white">
         <path d="M20.4134 10.0551C17.5575 10.6948 14.9512 12.1559 12.9155 14.2585C10.8798 16.3611 9.50364 19.0132 8.95654 21.8882L23.6921 24.6924L20.4134 10.0551Z"/>
     </mask>
-    <g class="svgAnime translate(-5px, -4px)">
+    <g class="svgAnime translate(-5px,-4px)">
         <path d="M20.4134 10.0551C17.5575 10.6948 14.9512 12.1559 12.9155 14.2585C10.8798 16.3611 9.50364 19.0132 8.95654 21.8882L23.6921 24.6924L20.4134 10.0551Z"
               fill="#F0C64C" stroke="#1F1F22" stroke-width="1.8" mask="url(#path-9-inside-2_555_37488)"/>
     </g>

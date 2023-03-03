@@ -7,7 +7,7 @@
     <path d="M52 48V37H107V48H52Z" fill="white" stroke="#1F1F22" stroke-width="0.9" stroke-linecap="round"/>
 
     <path d="M55.5 39V46.5H72V39H55.5Z" fill="#C1D5F6"/>
-    <g class='svgAnime matrix(0.5, 0, 0, 1, -4.125, 0)'>
+    <g class='svgAnime matrix(0.5,0,0,1,-4.125,0)'>
         <path d="M55.5 39V46.5H72V39H55.5Z" fill="#677CE8"/>
     </g>
 
@@ -16,7 +16,7 @@
 
     <path d="M55.5 53V60.5H72V53H55.5Z" fill="#677CE8"/>
 
-    <g class='svgAnime matrix(0.001, 0, 0, 1, 8.25, 0)'>
+    <g class='svgAnime matrix(0.001,0,0,1,8.25,0)'>
         <path d="M55.5 53V60.5H72V53H55.5Z" fill="#C1D5F6"/>
     </g>
 
@@ -25,7 +25,7 @@
 
     <path d="M55.5 67V74.5H72V67H55.5Z" fill="#C1D5F6"/>
 
-    <g class='svgAnime matrix(2.538, 0, 0, 1, 5, 0)'>
+    <g class='svgAnime matrix(2.538,0,0,1,5,0)'>
         <path d="M 55.5 67 V 74.5 H 62 V 67 H 55.5 Z" fill="#677CE8"/>
     </g>
 

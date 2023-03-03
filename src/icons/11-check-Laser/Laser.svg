@@ -61,7 +61,7 @@
     </g>
 
 
-    <g class='ray svgAnime rotate(-45deg)+scaleY(1.885)'>
+    <g class='svgAnime rotate(-45deg)+scaleY(1.885) ray'>
         <line x1="30.6818" y1="40.3182" x2="30.6818" y2="28.3182" stroke="#1F1F22" stroke-width="0.9"/>
     </g>
 
